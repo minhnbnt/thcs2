@@ -27,6 +27,7 @@ NO
 */
 
 #include <stdio.h>
+#include <string.h>
 
 char beautyof(char *num) {
 	int len = strlen(num), i;

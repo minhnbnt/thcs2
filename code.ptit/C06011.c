@@ -27,6 +27,7 @@ YES
 */
 
 #include <stdio.h>
+#include <string.h>
 
 char beautyof(char *s) {
 	int len = strlen(s), sum = 0;
